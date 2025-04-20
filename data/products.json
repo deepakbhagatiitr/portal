@@ -1,0 +1,313 @@
+{
+  "products": [
+    {
+      "productid": "p001",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Elegant Silk Saree",
+      "Cateogory": "saree",
+      "Price": 4999,
+      "originalPrice": 5999,
+      "tags": ["ready to wear", "new"],
+      "Quantity": 10,
+      "Description": {
+        "Color": "Maroon",
+        "Collection": "Festive Collection",
+        "Material": "Pure Silk",
+        "Work": "Zari",
+        "Occasion": ["wedding wear", "party wear"],
+        "Wash_care": "Dry clean only",
+        "Length": 5.5,
+        "Blouse": 0.8,
+        "Pattern": "Traditional"
+      }
+    },
+    {
+      "productid": "p002",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Floral Print Kurti",
+      "Cateogory": "kurti",
+      "Price": 1299,
+      "originalPrice": 1799,
+      "tags": ["sale", "ready to wear"],
+      "Quantity": 25,
+      "Description": {
+        "Color": "Blue",
+        "Collection": "Summer Collection",
+        "Material": "Cotton",
+        "Work": "Printed",
+        "Occasion": ["casual wear", "office wear"],
+        "Wash_care": "Machine wash",
+        "Length": 1.2,
+        "Blouse": 0,
+        "Pattern": "Floral"
+      }
+    },
+    {
+      "productid": "p003",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Embroidered Kurta Set",
+      "Cateogory": "kurta set",
+      "Price": 2499,
+      "tags": ["ready to wear", "best-seller"],
+      "Quantity": 15,
+      "Description": {
+        "Color": "Teal",
+        "Collection": "Festive Collection",
+        "Material": "Rayon",
+        "Work": "Embroidery",
+        "Occasion": ["party wear", "festive wear"],
+        "Wash_care": "Hand wash",
+        "Length": 1.4,
+        "Blouse": 0,
+        "Pattern": "Embroidered"
+      }
+    },
+    {
+      "productid": "p004",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Designer Gown",
+      "Cateogory": "gowns",
+      "Price": 3999,
+      "originalPrice": 4999,
+      "tags": ["sale", "ready to wear", "new"],
+      "Quantity": 8,
+      "Description": {
+        "Color": "Black",
+        "Collection": "Evening Collection",
+        "Material": "Georgette",
+        "Work": "Sequins",
+        "Occasion": ["party wear", "wedding wear"],
+        "Wash_care": "Dry clean only",
+        "Length": 1.5,
+        "Blouse": 0,
+        "Pattern": "Designer"
+      }
+    },
+    {
+      "productid": "p005",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Plus Size Printed Kurti",
+      "Cateogory": "plus size kurti",
+      "Price": 1499,
+      "tags": ["ready to wear", "best-seller"],
+      "Quantity": 20,
+      "Description": {
+        "Color": "Mustard",
+        "Collection": "Casual Collection",
+        "Material": "Cotton Blend",
+        "Work": "Printed",
+        "Occasion": ["casual wear", "office wear"],
+        "Wash_care": "Machine wash",
+        "Length": 1.3,
+        "Blouse": 0,
+        "Pattern": "Geometric"
+      }
+    },
+    {
+      "productid": "p006",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Banarasi Silk Saree",
+      "Cateogory": "saree",
+      "Price": 5999,
+      "tags": ["ready to wear", "last in stock", "best-seller"],
+      "Quantity": 3,
+      "Description": {
+        "Color": "Red",
+        "Collection": "Wedding Collection",
+        "Material": "Banarasi Silk",
+        "Work": "Zari",
+        "Occasion": ["wedding wear"],
+        "Wash_care": "Dry clean only",
+        "Length": 5.5,
+        "Blouse": 0.8,
+        "Pattern": "Traditional"
+      }
+    },
+    {
+      "productid": "p007",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Casual Cotton Kurti",
+      "Cateogory": "kurti",
+      "Price": 999,
+      "tags": ["ready to wear", "new"],
+      "Quantity": 30,
+      "Description": {
+        "Color": "Green",
+        "Collection": "Summer Collection",
+        "Material": "Cotton",
+        "Work": "Printed",
+        "Occasion": ["casual wear", "daily wear"],
+        "Wash_care": "Machine wash",
+        "Length": 1.1,
+        "Blouse": 0,
+        "Pattern": "Solid"
+      }
+    },
+    {
+      "productid": "p008",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Designer Party Gown",
+      "Cateogory": "gowns",
+      "Price": 4599,
+      "tags": ["ready to wear", "last in stock"],
+      "Quantity": 5,
+      "Description": {
+        "Color": "Navy Blue",
+        "Collection": "Party Collection",
+        "Material": "Net",
+        "Work": "Embroidery",
+        "Occasion": ["party wear"],
+        "Wash_care": "Dry clean only",
+        "Length": 1.6,
+        "Blouse": 0,
+        "Pattern": "Designer"
+      }
+    },
+    {
+      "productid": "p009",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Embellished Saree",
+      "Cateogory": "saree",
+      "Price": 3999,
+      "originalPrice": 4999,
+      "tags": ["sale", "ready to wear"],
+      "Quantity": 12,
+      "Description": {
+        "Color": "Pink",
+        "Collection": "Festive Collection",
+        "Material": "Georgette",
+        "Work": "Embellished",
+        "Occasion": ["party wear", "festive wear"],
+        "Wash_care": "Dry clean only",
+        "Length": 5.5,
+        "Blouse": 0.8,
+        "Pattern": "Contemporary"
+      }
+    },
+    {
+      "productid": "p010",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Printed Anarkali Kurti",
+      "Cateogory": "kurti",
+      "Price": 1799,
+      "tags": ["ready to wear", "best-seller"],
+      "Quantity": 18,
+      "Description": {
+        "Color": "Yellow",
+        "Collection": "Summer Collection",
+        "Material": "Cotton",
+        "Work": "Printed",
+        "Occasion": ["casual wear", "daily wear"],
+        "Wash_care": "Machine wash",
+        "Length": 1.3,
+        "Blouse": 0,
+        "Pattern": "Floral"
+      }
+    },
+    {
+      "productid": "p011",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Kanjivaram Silk Saree",
+      "Cateogory": "saree",
+      "Price": 7999,
+      "tags": ["best-seller", "new"],
+      "Quantity": 5,
+      "Description": {
+        "Color": "Purple",
+        "Collection": "Wedding Collection",
+        "Material": "Kanjivaram Silk",
+        "Work": "Zari & Thread",
+        "Occasion": ["wedding wear", "festive wear"],
+        "Wash_care": "Dry clean only",
+        "Length": 5.5,
+        "Blouse": 0.9,
+        "Pattern": "Traditional"
+      }
+    },
+    {
+      "productid": "p012",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Chanderi Cotton Saree",
+      "Cateogory": "saree",
+      "Price": 3499,
+      "tags": ["sale", "ready to wear"],
+      "Quantity": 8,
+      "Description": {
+        "Color": "Peach",
+        "Collection": "Casual Collection",
+        "Material": "Chanderi Cotton",
+        "Work": "Printed",
+        "Occasion": ["casual wear", "office wear"],
+        "Wash_care": "Hand wash recommended",
+        "Length": 5.5,
+        "Blouse": 0.8,
+        "Pattern": "Floral Print"
+      }
+    },
+    {
+      "productid": "p013",
+      "image": "/placeholder.svg?height=600&width=450",
+      "Name": "Georgette Embroidered Saree",
+      "Cateogory": "saree",
+      "Price": 5499,
+      "tags": ["sale", "best-seller"],
+      "Quantity": 6,
+      "Description": {
+        "Color": "Pink",
+        "Collection": "Party Collection",
+        "Material": "Georgette",
+        "Work": "Embroidery & Sequin",
+        "Occasion": ["party wear", "festive wear"],
+        "Wash_care": "Dry clean only",
+        "Length": 5.5,
+        "Blouse": 0.9,
+        "Pattern": "Embroidered"
+      }
+    }
+  ],
+  "collections": [
+    {
+      "slug": "summer",
+      "name": "Summer Collection",
+      "description": "Light, breathable fabrics perfect for the summer heat",
+      "image": "/placeholder.svg?height=450&width=800",
+      "productCount": 4
+    },
+    {
+      "slug": "festive",
+      "name": "Festive Collection",
+      "description": "Celebrate special occasions with our festive wear",
+      "image": "/placeholder.svg?height=450&width=800",
+      "productCount": 3
+    },
+    {
+      "slug": "wedding",
+      "name": "Wedding Collection",
+      "description": "Elegant designs for wedding ceremonies and celebrations",
+      "image": "/placeholder.svg?height=450&width=800",
+      "productCount": 2
+    },
+    {
+      "slug": "party",
+      "name": "Party Collection",
+      "description": "Stand out at parties with our stylish party wear",
+      "image": "/placeholder.svg?height=450&width=800",
+      "productCount": 2
+    },
+    {
+      "slug": "casual",
+      "name": "Casual Collection",
+      "description": "Comfortable and stylish everyday wear",
+      "image": "/placeholder.svg?height=450&width=800",
+      "productCount": 3
+    },
+    {
+      "slug": "evening",
+      "name": "Evening Collection",
+      "description": "Sophisticated designs for evening events",
+      "image": "/placeholder.svg?height=450&width=800",
+      "productCount": 1
+    }
+  ]
+}
+

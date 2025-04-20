@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1eb4c2c1-df24-4d60-9875-b137319cba8d",
+    "name": "Harsh Sharma",
+    "email": "sharma036harsh@gmail.com",
+    "password": "$2b$10$gvbMK8NOey/mbmkwr2B8K.0bcndnOGEWsrf1vO8nW.VapIhxPiXpS",
+    "createdAt": "2025-03-19T15:17:37.840Z"
+  },
+  {
+    "id": "f1b433b4-d747-4b18-93da-e8d72d39c7bb",
+    "name": "Rahul chaurasiya",
+    "email": "rahulchaurasiadabra@gmail.com",
+    "password": "$2b$10$4Cs4WkobESK8Kjg8BcyhAOtrYQZGQ9flPP9Wq6GJmv9Mp6f9rpZCW",
+    "createdAt": "2025-04-19T09:17:19.329Z"
+  }
+]
